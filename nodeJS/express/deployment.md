@@ -130,6 +130,7 @@ Can deploy both servers and databases.
 
 - 750 hours of free usage per month.
 - Applications are put to sleep automatically after 15 minutes of inactivity, so the 750 free hours should be enough to host a few apps for the entire month.
+- You only get one free database at a time which lasts 30 days before being deleted. With this strict database allowance, the free tier is enough to host one free app for 30 days.
 
 ##### Render: Links
 
